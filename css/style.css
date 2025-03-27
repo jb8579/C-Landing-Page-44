@@ -242,8 +242,6 @@ ul {
     text-decoration: underline;
 }
 
-
-
 .footerlogos ul {
     padding: 0;
     margin: 0;
@@ -252,6 +250,7 @@ ul {
     padding-top: 55px;
     display: flex;
     align-items: center;
+    justify-content: center;
 }
 
 .footerlogos ul li {
